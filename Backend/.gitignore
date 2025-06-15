@@ -1,0 +1,40 @@
+### Java ###
+*.class
+*.log
+*.jar
+*.war
+
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.gradle/
+
+### Spring Tool Suite (STS) ###
+.apt_generated
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code (if ever opened there) ###
+.vscode/
+
+### Mac / OS junk ###
+.DS_Store
+
